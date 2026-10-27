@@ -6,3 +6,4 @@ ST-04,"Студенти, які йдуть на практику",факульт
 ST-05,Завідувач кафедри,кафедра,high,low,supporter,keep_informed,PM
 ST-06,Служба ІТ академії,академія,low,high,neutral,keep_satisfied,Dev 100%
 ST-07,Власник системи деканату,деканат,low,high,neutral,keep_satisfied,Dev 100%
+ST-08,Служба інформаційної безпеки академії,академія,high,high,neutral,manage_closely,PM
