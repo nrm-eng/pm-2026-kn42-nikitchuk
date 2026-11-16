@@ -1,1 +1,3 @@
 sprint,planned_points,actual_points,planned_cost_per_point,actual_cost_per_point,variance_pct,source_file,note
+1,15,16,6880,6450,-6.25,lr09_forecast/velocity.csv,"Закрито на 1 point більше за ємність варіанта, бо три узяті історії без блокерів закрились повністю, і з них S-01 переоцінена з 5 до 8 після події курсу"
+2,15,4,6880,25800,275,lr09_forecast/velocity.csv,"Спринт тривав два дні замість двох тижнів через дедлайн пакета, і 8 з 12 узятих points це S-09, заблокована деканатом"
