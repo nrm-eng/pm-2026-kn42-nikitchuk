@@ -1,1 +1,4 @@
 role,fte,hours,rate,source,note
+PM,0.25,80,500,https://dev.ua/news/skilky-otrymuiut-menedzhery-v-it-1769415042,"Медіана Middle Project Manager за DOU (грудень 2025) 2000 доларів, це 0,8 від Middle розробника, тому ставка 0,8 від Dev"
+Dev,1.5,480,620,https://zaxid.net/zarplati_it_rozrobnikiv_2026_hto_otrimuye_naybilshe_u_yakih_mistah_porivnyannya_n1641584,Медіана Middle розробника за DOU (червень 2026) 2500 доларів; два розробники різної зайнятості за однією ставкою
+QA,0.5,160,470,https://forbes.ua/news/testuvalniki-v-ukraini-stali-zaroblyati-bilshe-opituvannya-dou-yaki-qa-spetsializatsii-mayut-nayvishchi-zarplati-20072026-40557,"Медіана Middle QA за DOU (червень 2026) 1900 доларів, це 0,76 від Middle розробника"
